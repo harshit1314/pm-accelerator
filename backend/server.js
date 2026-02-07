@@ -56,7 +56,7 @@ app.get('/api/health', (req, res) => {
 app.get('/', (req, res) => {
     res.json({
         message: 'Weather App API - PM Accelerator Technical Assessment',
-        developer: 'Your Name',
+        developer: 'Harshit Agarwal',
         version: '1.0.0',
         endpoints: {
             weather: {

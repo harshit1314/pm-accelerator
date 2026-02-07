@@ -35,7 +35,7 @@ function App() {
                         <span className="weather-icon">⛅</span>
                         Weather App
                     </h1>
-                    <p className="app-subtitle">Full Stack Technical Assessment</p>
+                    <p className="app-subtitle">Built by Harshit Agarwal for PM Accelerator</p>
                 </div>
             </header>
 

@@ -22,9 +22,10 @@ function Footer() {
                         >
                             Product Manager Accelerator
                         </a>
-                        {' '}is a premier program designed to help aspiring product managers
-                        and technical professionals develop the skills needed to excel in the tech industry.
-                        The program offers hands-on experience, mentorship, and real-world projects.
+                        {' '}is a leading product management training and career development program
+                        that empowers individuals to become AI Product Leaders. Founded by Dr. Nancy Li,
+                        the program focuses on building practical skills in product strategy, user research,
+                        data analysis, and technical implementation through hands-on projects and mentorship.
                     </p>
                 </div>
 
@@ -37,7 +38,7 @@ function Footer() {
                         <span className="tech-tag">MongoDB</span>
                         <span className="tech-tag">OpenWeatherMap API</span>
                         <span className="tech-tag">YouTube API</span>
-                        <span className="tech-tag">Google Maps API</span>
+                        <span className="tech-tag">OpenStreetMap</span>
                     </div>
                 </div>
 
@@ -51,7 +52,7 @@ function Footer() {
                         <li>✅ Full CRUD operations with MongoDB</li>
                         <li>✅ Data export (JSON, CSV, PDF, XML)</li>
                         <li>✅ YouTube video integration</li>
-                        <li>✅ Google Maps integration</li>
+                        <li>✅ OpenStreetMap integration</li>
                         <li>✅ Responsive design for all devices</li>
                         <li>✅ Comprehensive error handling</li>
                     </ul>
@@ -60,9 +61,9 @@ function Footer() {
 
             <div className="footer-bottom">
                 <p>
-                    Developed by <strong>Your Name</strong> |
+                    Developed by <strong>Harshit Agarwal</strong> |
                     <a
-                        href="https://github.com/yourusername/weather-app"
+                        href="https://github.com/harshit1314/pm-accelerator"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="footer-link"

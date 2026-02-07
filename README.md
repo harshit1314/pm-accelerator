@@ -1,14 +1,19 @@
 # Weather App - Full Stack Technical Assessment
+# Full Stack Weather Application
 
 ![Weather App](https://img.shields.io/badge/Status-Complete-success)
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
 
-A comprehensive full-stack weather application built for the **PM Accelerator** Technical Assessment, demonstrating proficiency in both frontend and backend development.
+**Developer:** Harshit Agarwal  
+**Built for:** PM Accelerator Technical Assessment
 
-**Developer:** Your Name  
-**Assessment:** Full Stack Engineer (Tech Assessment #1 + #2)
+## About PM Accelerator
+
+PM Accelerator is a leading product management training and career development program that helps aspiring and current product managers accelerate their careers through hands-on projects, mentorship, and real-world experience. The program focuses on building practical skills in product strategy, user research, data analysis, and technical implementation.
+
+A comprehensive full-stack weather application built for the **PM Accelerator** Technical Assessment, demonstrating proficiency in both frontend and backend development.
 
 ---
 
