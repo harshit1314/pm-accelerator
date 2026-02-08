@@ -100,11 +100,13 @@ app.use((err, req, res, next) => {
     });
 });
 
-// Start server
-app.listen(PORT, () => {
-    console.log(`\n🚀 Server running on port ${PORT}`);
-    console.log(`📍 API: http://localhost:${PORT}`);
-    console.log(`📚 Documentation: http://localhost:${PORT}/\n`);
-});
+// Start server (only in local development, not in Vercel serverless)
+if (process.env.VERCEL !== '1') {
+    app.listen(PORT, () => {
+        console.log(`\n🚀 Server running on port ${PORT}`);
+        console.log(`📍 API: http://localhost:${PORT}`);
+        console.log(`📚 Documentation: http://localhost:${PORT}/\n`);
+    });
+}
 
 export default app;
